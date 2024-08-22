@@ -2,7 +2,7 @@
 ### Olá, eu sou a Ana Clara Garros, e sejam bem vindos!
 
 
-- 🔭 Busco me desenvolver em: Full Strack, Mobile, Android, Kotlin e Swift.
+- 🔭 Busco me desenvolver em: Full Stack.
 - 🌱 Estudante de Analise e desenvolvimento de sistemas e Eng. biomedica com foco em IA. 
 - 📫 Contate-me via e-mail> acgarros@gmail.com
 - 😄 Pronouns: Ela/Dela
