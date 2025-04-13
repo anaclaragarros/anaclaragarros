@@ -3,7 +3,7 @@
 
 
 - 🔭 Busco me desenvolver em: Full Stack.
-- 🌱 Estudante de Analise e desenvolvimento de sistemas e Eng. biomedica com foco em IA. 
+- 🌱 Ciência da computação. 
 - 📫 Contate-me via e-mail> acgarros@gmail.com
 - 😄 Pronouns: Ela/Dela
 
